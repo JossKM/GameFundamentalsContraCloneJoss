@@ -1128,7 +1128,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1193,10 +1193,10 @@ TextureImporter:
       name: Contra_bill_4
       rect:
         serializedVersion: 2
-        x: 27
-        y: 907
-        width: 21
-        height: 37
+        x: 288
+        y: 882
+        width: 20
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1215,10 +1215,10 @@ TextureImporter:
       name: Contra_bill_5
       rect:
         serializedVersion: 2
-        x: 92
-        y: 908
-        width: 22
-        height: 33
+        x: 356
+        y: 881
+        width: 16
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1237,10 +1237,10 @@ TextureImporter:
       name: Contra_bill_6
       rect:
         serializedVersion: 2
-        x: 159
-        y: 907
-        width: 18
-        height: 36
+        x: 418
+        y: 881
+        width: 25
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1259,10 +1259,10 @@ TextureImporter:
       name: Contra_bill_7
       rect:
         serializedVersion: 2
-        x: 222
-        y: 907
-        width: 20
-        height: 36
+        x: 483
+        y: 882
+        width: 25
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1281,10 +1281,10 @@ TextureImporter:
       name: Contra_bill_8
       rect:
         serializedVersion: 2
-        x: 287
-        y: 908
-        width: 22
-        height: 33
+        x: 550
+        y: 881
+        width: 23
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1303,10 +1303,10 @@ TextureImporter:
       name: Contra_bill_9
       rect:
         serializedVersion: 2
-        x: 355
-        y: 907
-        width: 18
-        height: 37
+        x: 613
+        y: 881
+        width: 25
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1325,10 +1325,10 @@ TextureImporter:
       name: Contra_bill_10
       rect:
         serializedVersion: 2
-        x: 417
-        y: 907
-        width: 27
-        height: 36
+        x: 678
+        y: 882
+        width: 25
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1347,10 +1347,10 @@ TextureImporter:
       name: Contra_bill_11
       rect:
         serializedVersion: 2
-        x: 482
-        y: 908
-        width: 27
-        height: 34
+        x: 745
+        y: 881
+        width: 23
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1369,10 +1369,10 @@ TextureImporter:
       name: Contra_bill_12
       rect:
         serializedVersion: 2
-        x: 549
-        y: 907
-        width: 25
-        height: 36
+        x: 811
+        y: 881
+        width: 14
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1391,10 +1391,10 @@ TextureImporter:
       name: Contra_bill_13
       rect:
         serializedVersion: 2
-        x: 612
-        y: 907
-        width: 27
-        height: 35
+        x: 876
+        y: 881
+        width: 14
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1413,10 +1413,10 @@ TextureImporter:
       name: Contra_bill_14
       rect:
         serializedVersion: 2
-        x: 677
-        y: 908
-        width: 27
-        height: 33
+        x: 930
+        y: 882
+        width: 32
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1435,10 +1435,10 @@ TextureImporter:
       name: Contra_bill_15
       rect:
         serializedVersion: 2
-        x: 744
-        y: 907
-        width: 25
-        height: 35
+        x: 995
+        y: 881
+        width: 32
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1457,10 +1457,10 @@ TextureImporter:
       name: Contra_bill_16
       rect:
         serializedVersion: 2
-        x: 810
-        y: 907
-        width: 16
-        height: 47
+        x: 28
+        y: 816
+        width: 19
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1479,10 +1479,10 @@ TextureImporter:
       name: Contra_bill_17
       rect:
         serializedVersion: 2
-        x: 875
-        y: 907
-        width: 16
-        height: 46
+        x: 93
+        y: 817
+        width: 20
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1501,10 +1501,10 @@ TextureImporter:
       name: Contra_bill_18
       rect:
         serializedVersion: 2
-        x: 929
-        y: 908
-        width: 34
-        height: 18
+        x: 161
+        y: 816
+        width: 16
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1523,10 +1523,10 @@ TextureImporter:
       name: Contra_bill_19
       rect:
         serializedVersion: 2
-        x: 994
-        y: 907
-        width: 34
-        height: 18
+        x: 223
+        y: 816
+        width: 19
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1545,10 +1545,10 @@ TextureImporter:
       name: Contra_bill_20
       rect:
         serializedVersion: 2
-        x: 27
-        y: 842
-        width: 21
-        height: 37
+        x: 288
+        y: 817
+        width: 20
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1567,10 +1567,10 @@ TextureImporter:
       name: Contra_bill_21
       rect:
         serializedVersion: 2
-        x: 92
-        y: 843
-        width: 22
-        height: 35
+        x: 356
+        y: 816
+        width: 16
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1589,10 +1589,10 @@ TextureImporter:
       name: Contra_bill_22
       rect:
         serializedVersion: 2
-        x: 160
-        y: 842
-        width: 18
-        height: 37
+        x: 418
+        y: 816
+        width: 21
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1611,10 +1611,10 @@ TextureImporter:
       name: Contra_bill_23
       rect:
         serializedVersion: 2
-        x: 222
-        y: 842
+        x: 483
+        y: 817
         width: 21
-        height: 36
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1633,10 +1633,10 @@ TextureImporter:
       name: Contra_bill_24
       rect:
         serializedVersion: 2
-        x: 287
-        y: 843
-        width: 22
-        height: 34
+        x: 549
+        y: 816
+        width: 20
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1655,10 +1655,10 @@ TextureImporter:
       name: Contra_bill_25
       rect:
         serializedVersion: 2
-        x: 355
-        y: 842
-        width: 18
-        height: 36
+        x: 613
+        y: 816
+        width: 21
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1677,10 +1677,10 @@ TextureImporter:
       name: Contra_bill_26
       rect:
         serializedVersion: 2
-        x: 417
-        y: 842
-        width: 23
-        height: 37
+        x: 678
+        y: 817
+        width: 21
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1699,10 +1699,10 @@ TextureImporter:
       name: Contra_bill_27
       rect:
         serializedVersion: 2
-        x: 482
-        y: 843
-        width: 23
-        height: 35
+        x: 744
+        y: 816
+        width: 20
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1721,10 +1721,10 @@ TextureImporter:
       name: Contra_bill_28
       rect:
         serializedVersion: 2
-        x: 548
-        y: 842
-        width: 22
-        height: 37
+        x: 808
+        y: 822
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1743,10 +1743,10 @@ TextureImporter:
       name: Contra_bill_29
       rect:
         serializedVersion: 2
-        x: 612
-        y: 842
-        width: 23
-        height: 36
+        x: 871
+        y: 825
+        width: 19
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1765,10 +1765,10 @@ TextureImporter:
       name: Contra_bill_30
       rect:
         serializedVersion: 2
-        x: 677
-        y: 843
-        width: 23
-        height: 34
+        x: 938
+        y: 824
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1787,10 +1787,10 @@ TextureImporter:
       name: Contra_bill_31
       rect:
         serializedVersion: 2
-        x: 743
-        y: 842
-        width: 22
-        height: 36
+        x: 1002
+        y: 825
+        width: 19
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1809,10 +1809,10 @@ TextureImporter:
       name: Contra_bill_32
       rect:
         serializedVersion: 2
-        x: 807
-        y: 848
-        width: 18
-        height: 22
+        x: 28
+        y: 760
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1831,10 +1831,10 @@ TextureImporter:
       name: Contra_bill_33
       rect:
         serializedVersion: 2
-        x: 870
-        y: 851
-        width: 21
-        height: 18
+        x: 93
+        y: 765
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1853,10 +1853,10 @@ TextureImporter:
       name: Contra_bill_34
       rect:
         serializedVersion: 2
-        x: 937
-        y: 850
-        width: 18
-        height: 22
+        x: 158
+        y: 766
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1875,10 +1875,10 @@ TextureImporter:
       name: Contra_bill_35
       rect:
         serializedVersion: 2
-        x: 1001
-        y: 851
-        width: 21
-        height: 18
+        x: 223
+        y: 767
+        width: 25
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1897,9 +1897,9 @@ TextureImporter:
       name: Contra_bill_36
       rect:
         serializedVersion: 2
-        x: 27
-        y: 786
-        width: 18
+        x: 288
+        y: 767
+        width: 25
         height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1919,9 +1919,9 @@ TextureImporter:
       name: Contra_bill_37
       rect:
         serializedVersion: 2
-        x: 92
-        y: 791
-        width: 18
+        x: 353
+        y: 767
+        width: 19
         height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1941,10 +1941,10 @@ TextureImporter:
       name: Contra_bill_38
       rect:
         serializedVersion: 2
-        x: 157
-        y: 792
-        width: 18
-        height: 17
+        x: 418
+        y: 767
+        width: 19
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1963,10 +1963,10 @@ TextureImporter:
       name: Contra_bill_39
       rect:
         serializedVersion: 2
-        x: 222
-        y: 793
-        width: 27
-        height: 18
+        x: 483
+        y: 767
+        width: 17
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1985,10 +1985,10 @@ TextureImporter:
       name: Contra_bill_40
       rect:
         serializedVersion: 2
-        x: 287
-        y: 793
-        width: 27
-        height: 19
+        x: 548
+        y: 767
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2007,10 +2007,10 @@ TextureImporter:
       name: Contra_bill_41
       rect:
         serializedVersion: 2
-        x: 352
-        y: 793
-        width: 21
-        height: 19
+        x: 613
+        y: 766
+        width: 16
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2029,10 +2029,10 @@ TextureImporter:
       name: Contra_bill_42
       rect:
         serializedVersion: 2
-        x: 417
-        y: 793
-        width: 21
-        height: 20
+        x: 678
+        y: 767
+        width: 16
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2051,10 +2051,10 @@ TextureImporter:
       name: Contra_bill_43
       rect:
         serializedVersion: 2
-        x: 482
-        y: 793
-        width: 19
-        height: 29
+        x: 743
+        y: 757
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2073,10 +2073,10 @@ TextureImporter:
       name: Contra_bill_44
       rect:
         serializedVersion: 2
-        x: 547
-        y: 793
-        width: 19
-        height: 30
+        x: 807
+        y: 760
+        width: 22
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2095,10 +2095,10 @@ TextureImporter:
       name: Contra_bill_45
       rect:
         serializedVersion: 2
-        x: 612
-        y: 792
-        width: 18
-        height: 9
+        x: 874
+        y: 757
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2117,10 +2117,10 @@ TextureImporter:
       name: Contra_bill_46
       rect:
         serializedVersion: 2
-        x: 677
-        y: 793
-        width: 18
-        height: 9
+        x: 935
+        y: 759
+        width: 22
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2139,10 +2139,10 @@ TextureImporter:
       name: Contra_bill_47
       rect:
         serializedVersion: 2
-        x: 742
-        y: 783
-        width: 18
-        height: 18
+        x: 1005
+        y: 757
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2161,10 +2161,10 @@ TextureImporter:
       name: Contra_bill_48
       rect:
         serializedVersion: 2
-        x: 806
-        y: 786
-        width: 24
-        height: 20
+        x: 28
+        y: 689
+        width: 18
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2183,10 +2183,10 @@ TextureImporter:
       name: Contra_bill_49
       rect:
         serializedVersion: 2
-        x: 873
-        y: 783
-        width: 17
-        height: 25
+        x: 93
+        y: 687
+        width: 20
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2205,10 +2205,10 @@ TextureImporter:
       name: Contra_bill_50
       rect:
         serializedVersion: 2
-        x: 934
-        y: 785
-        width: 24
-        height: 20
+        x: 160
+        y: 686
+        width: 16
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2227,10 +2227,10 @@ TextureImporter:
       name: Contra_bill_51
       rect:
         serializedVersion: 2
-        x: 1004
-        y: 783
-        width: 17
-        height: 25
+        x: 223
+        y: 689
+        width: 18
+        height: 39
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2249,10 +2249,10 @@ TextureImporter:
       name: Contra_bill_52
       rect:
         serializedVersion: 2
-        x: 27
-        y: 715
+        x: 288
+        y: 687
         width: 20
-        height: 42
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2271,10 +2271,10 @@ TextureImporter:
       name: Contra_bill_53
       rect:
         serializedVersion: 2
-        x: 92
-        y: 713
-        width: 22
-        height: 43
+        x: 355
+        y: 686
+        width: 16
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2293,9 +2293,9 @@ TextureImporter:
       name: Contra_bill_54
       rect:
         serializedVersion: 2
-        x: 159
-        y: 712
-        width: 18
+        x: 416
+        y: 684
+        width: 19
         height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2315,10 +2315,10 @@ TextureImporter:
       name: Contra_bill_55
       rect:
         serializedVersion: 2
-        x: 222
-        y: 715
-        width: 20
-        height: 41
+        x: 481
+        y: 683
+        width: 19
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2337,10 +2337,10 @@ TextureImporter:
       name: Contra_bill_56
       rect:
         serializedVersion: 2
-        x: 287
-        y: 713
-        width: 22
-        height: 42
+        x: 544
+        y: 683
+        width: 24
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2359,10 +2359,10 @@ TextureImporter:
       name: Contra_bill_57
       rect:
         serializedVersion: 2
-        x: 354
-        y: 712
-        width: 18
-        height: 44
+        x: 609
+        y: 682
+        width: 24
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2381,10 +2381,10 @@ TextureImporter:
       name: Contra_bill_58
       rect:
         serializedVersion: 2
-        x: 415
-        y: 710
-        width: 21
-        height: 47
+        x: 677
+        y: 679
+        width: 19
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2403,10 +2403,10 @@ TextureImporter:
       name: Contra_bill_59
       rect:
         serializedVersion: 2
-        x: 480
-        y: 709
-        width: 21
-        height: 47
+        x: 743
+        y: 677
+        width: 19
+        height: 39
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2425,10 +2425,10 @@ TextureImporter:
       name: Contra_bill_60
       rect:
         serializedVersion: 2
-        x: 543
-        y: 709
-        width: 26
-        height: 34
+        x: 801
+        y: 684
+        width: 24
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2447,10 +2447,10 @@ TextureImporter:
       name: Contra_bill_61
       rect:
         serializedVersion: 2
-        x: 608
-        y: 708
-        width: 26
-        height: 34
+        x: 869
+        y: 681
+        width: 24
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2469,10 +2469,10 @@ TextureImporter:
       name: Contra_bill_62
       rect:
         serializedVersion: 2
-        x: 676
-        y: 705
-        width: 21
-        height: 42
+        x: 934
+        y: 681
+        width: 24
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2491,10 +2491,10 @@ TextureImporter:
       name: Contra_bill_63
       rect:
         serializedVersion: 2
-        x: 742
-        y: 703
-        width: 21
-        height: 41
+        x: 995
+        y: 687
+        width: 32
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2513,10 +2513,10 @@ TextureImporter:
       name: Contra_bill_64
       rect:
         serializedVersion: 2
-        x: 800
-        y: 710
-        width: 26
-        height: 47
+        x: 28
+        y: 613
+        width: 19
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2535,10 +2535,10 @@ TextureImporter:
       name: Contra_bill_65
       rect:
         serializedVersion: 2
-        x: 868
-        y: 707
-        width: 26
-        height: 24
+        x: 93
+        y: 614
+        width: 20
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2557,10 +2557,10 @@ TextureImporter:
       name: Contra_bill_66
       rect:
         serializedVersion: 2
-        x: 933
-        y: 707
-        width: 26
-        height: 24
+        x: 160
+        y: 613
+        width: 16
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2579,10 +2579,10 @@ TextureImporter:
       name: Contra_bill_67
       rect:
         serializedVersion: 2
-        x: 994
-        y: 713
-        width: 34
-        height: 12
+        x: 223
+        y: 613
+        width: 18
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2601,10 +2601,10 @@ TextureImporter:
       name: Contra_bill_73
       rect:
         serializedVersion: 2
-        x: 868
-        y: 690
-        width: 9
-        height: 9
+        x: 613
+        y: 613
+        width: 25
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2623,10 +2623,10 @@ TextureImporter:
       name: Contra_bill_74
       rect:
         serializedVersion: 2
-        x: 876
-        y: 690
-        width: 9
-        height: 9
+        x: 678
+        y: 614
+        width: 25
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2645,10 +2645,10 @@ TextureImporter:
       name: Contra_bill_75
       rect:
         serializedVersion: 2
-        x: 884
-        y: 690
-        width: 9
-        height: 9
+        x: 745
+        y: 613
+        width: 23
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2667,10 +2667,10 @@ TextureImporter:
       name: Contra_bill_76
       rect:
         serializedVersion: 2
-        x: 933
-        y: 690
-        width: 9
-        height: 9
+        x: 811
+        y: 613
+        width: 14
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2689,10 +2689,10 @@ TextureImporter:
       name: Contra_bill_77
       rect:
         serializedVersion: 2
-        x: 941
-        y: 690
-        width: 9
-        height: 9
+        x: 876
+        y: 613
+        width: 14
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2711,10 +2711,10 @@ TextureImporter:
       name: Contra_bill_78
       rect:
         serializedVersion: 2
-        x: 949
-        y: 690
-        width: 9
-        height: 9
+        x: 930
+        y: 614
+        width: 32
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2733,10 +2733,10 @@ TextureImporter:
       name: Contra_bill_79
       rect:
         serializedVersion: 2
-        x: 27
-        y: 639
-        width: 21
-        height: 37
+        x: 995
+        y: 613
+        width: 32
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2755,10 +2755,10 @@ TextureImporter:
       name: Contra_bill_80
       rect:
         serializedVersion: 2
-        x: 92
-        y: 640
-        width: 22
-        height: 33
+        x: 28
+        y: 548
+        width: 19
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2777,10 +2777,10 @@ TextureImporter:
       name: Contra_bill_81
       rect:
         serializedVersion: 2
-        x: 159
-        y: 639
-        width: 18
-        height: 36
+        x: 93
+        y: 549
+        width: 20
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2799,10 +2799,10 @@ TextureImporter:
       name: Contra_bill_82
       rect:
         serializedVersion: 2
-        x: 222
-        y: 639
-        width: 20
-        height: 36
+        x: 161
+        y: 548
+        width: 16
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2821,10 +2821,10 @@ TextureImporter:
       name: Contra_bill_83
       rect:
         serializedVersion: 2
-        x: 287
-        y: 640
-        width: 22
-        height: 33
+        x: 223
+        y: 548
+        width: 19
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2843,10 +2843,10 @@ TextureImporter:
       name: Contra_bill_84
       rect:
         serializedVersion: 2
-        x: 355
-        y: 639
-        width: 18
-        height: 37
+        x: 288
+        y: 549
+        width: 20
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2865,10 +2865,10 @@ TextureImporter:
       name: Contra_bill_85
       rect:
         serializedVersion: 2
-        x: 417
-        y: 639
-        width: 27
-        height: 36
+        x: 356
+        y: 548
+        width: 16
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2887,10 +2887,10 @@ TextureImporter:
       name: Contra_bill_86
       rect:
         serializedVersion: 2
-        x: 482
-        y: 640
-        width: 27
-        height: 34
+        x: 418
+        y: 548
+        width: 21
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2909,10 +2909,10 @@ TextureImporter:
       name: Contra_bill_87
       rect:
         serializedVersion: 2
-        x: 549
-        y: 639
-        width: 25
-        height: 36
+        x: 483
+        y: 549
+        width: 21
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2931,9 +2931,9 @@ TextureImporter:
       name: Contra_bill_88
       rect:
         serializedVersion: 2
-        x: 612
-        y: 639
-        width: 27
+        x: 549
+        y: 548
+        width: 20
         height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2953,10 +2953,10 @@ TextureImporter:
       name: Contra_bill_89
       rect:
         serializedVersion: 2
-        x: 677
-        y: 640
-        width: 27
-        height: 33
+        x: 613
+        y: 548
+        width: 21
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2975,10 +2975,10 @@ TextureImporter:
       name: Contra_bill_90
       rect:
         serializedVersion: 2
-        x: 744
-        y: 639
-        width: 25
-        height: 35
+        x: 678
+        y: 549
+        width: 21
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2997,10 +2997,10 @@ TextureImporter:
       name: Contra_bill_91
       rect:
         serializedVersion: 2
-        x: 810
-        y: 639
-        width: 16
-        height: 47
+        x: 744
+        y: 548
+        width: 20
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3019,10 +3019,10 @@ TextureImporter:
       name: Contra_bill_92
       rect:
         serializedVersion: 2
-        x: 875
-        y: 639
+        x: 808
+        y: 554
         width: 16
-        height: 46
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3041,10 +3041,10 @@ TextureImporter:
       name: Contra_bill_93
       rect:
         serializedVersion: 2
-        x: 929
-        y: 640
-        width: 34
-        height: 18
+        x: 871
+        y: 557
+        width: 19
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3063,10 +3063,10 @@ TextureImporter:
       name: Contra_bill_94
       rect:
         serializedVersion: 2
-        x: 994
-        y: 639
-        width: 34
-        height: 18
+        x: 938
+        y: 556
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3085,10 +3085,10 @@ TextureImporter:
       name: Contra_bill_95
       rect:
         serializedVersion: 2
-        x: 27
-        y: 574
-        width: 21
-        height: 37
+        x: 1002
+        y: 557
+        width: 19
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3107,10 +3107,10 @@ TextureImporter:
       name: Contra_bill_96
       rect:
         serializedVersion: 2
-        x: 92
-        y: 575
-        width: 22
-        height: 35
+        x: 28
+        y: 492
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3129,10 +3129,10 @@ TextureImporter:
       name: Contra_bill_97
       rect:
         serializedVersion: 2
-        x: 160
-        y: 574
-        width: 18
-        height: 37
+        x: 93
+        y: 497
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3151,10 +3151,10 @@ TextureImporter:
       name: Contra_bill_98
       rect:
         serializedVersion: 2
-        x: 222
-        y: 574
-        width: 21
-        height: 36
+        x: 158
+        y: 498
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3173,10 +3173,10 @@ TextureImporter:
       name: Contra_bill_99
       rect:
         serializedVersion: 2
-        x: 287
-        y: 575
-        width: 22
-        height: 34
+        x: 223
+        y: 499
+        width: 25
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3195,10 +3195,10 @@ TextureImporter:
       name: Contra_bill_100
       rect:
         serializedVersion: 2
-        x: 355
-        y: 574
-        width: 18
-        height: 36
+        x: 288
+        y: 499
+        width: 25
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3217,10 +3217,10 @@ TextureImporter:
       name: Contra_bill_101
       rect:
         serializedVersion: 2
-        x: 417
-        y: 574
-        width: 23
-        height: 37
+        x: 353
+        y: 499
+        width: 19
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3239,10 +3239,10 @@ TextureImporter:
       name: Contra_bill_102
       rect:
         serializedVersion: 2
-        x: 482
-        y: 575
-        width: 23
-        height: 35
+        x: 418
+        y: 499
+        width: 19
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3261,10 +3261,10 @@ TextureImporter:
       name: Contra_bill_103
       rect:
         serializedVersion: 2
-        x: 548
-        y: 574
-        width: 22
-        height: 37
+        x: 483
+        y: 499
+        width: 17
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3283,10 +3283,10 @@ TextureImporter:
       name: Contra_bill_104
       rect:
         serializedVersion: 2
-        x: 612
-        y: 574
-        width: 23
-        height: 36
+        x: 548
+        y: 499
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3305,10 +3305,10 @@ TextureImporter:
       name: Contra_bill_105
       rect:
         serializedVersion: 2
-        x: 677
-        y: 575
-        width: 23
-        height: 34
+        x: 613
+        y: 498
+        width: 16
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3327,10 +3327,10 @@ TextureImporter:
       name: Contra_bill_106
       rect:
         serializedVersion: 2
-        x: 743
-        y: 574
-        width: 22
-        height: 36
+        x: 678
+        y: 499
+        width: 16
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3349,10 +3349,10 @@ TextureImporter:
       name: Contra_bill_107
       rect:
         serializedVersion: 2
-        x: 807
-        y: 580
-        width: 18
-        height: 22
+        x: 743
+        y: 489
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3371,9 +3371,9 @@ TextureImporter:
       name: Contra_bill_108
       rect:
         serializedVersion: 2
-        x: 870
-        y: 583
-        width: 21
+        x: 807
+        y: 492
+        width: 22
         height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3393,10 +3393,10 @@ TextureImporter:
       name: Contra_bill_109
       rect:
         serializedVersion: 2
-        x: 937
-        y: 582
-        width: 18
-        height: 22
+        x: 874
+        y: 489
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3415,9 +3415,9 @@ TextureImporter:
       name: Contra_bill_110
       rect:
         serializedVersion: 2
-        x: 1001
-        y: 583
-        width: 21
+        x: 935
+        y: 491
+        width: 22
         height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3437,10 +3437,10 @@ TextureImporter:
       name: Contra_bill_111
       rect:
         serializedVersion: 2
-        x: 27
-        y: 518
-        width: 18
-        height: 17
+        x: 1005
+        y: 489
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3459,10 +3459,10 @@ TextureImporter:
       name: Contra_bill_112
       rect:
         serializedVersion: 2
-        x: 92
-        y: 523
+        x: 28
+        y: 421
         width: 18
-        height: 17
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3481,10 +3481,10 @@ TextureImporter:
       name: Contra_bill_113
       rect:
         serializedVersion: 2
-        x: 157
-        y: 524
-        width: 18
-        height: 17
+        x: 93
+        y: 419
+        width: 20
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3503,10 +3503,10 @@ TextureImporter:
       name: Contra_bill_114
       rect:
         serializedVersion: 2
-        x: 222
-        y: 525
-        width: 27
-        height: 18
+        x: 160
+        y: 418
+        width: 16
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3525,10 +3525,10 @@ TextureImporter:
       name: Contra_bill_115
       rect:
         serializedVersion: 2
-        x: 287
-        y: 525
-        width: 27
-        height: 19
+        x: 223
+        y: 421
+        width: 18
+        height: 39
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3547,10 +3547,10 @@ TextureImporter:
       name: Contra_bill_116
       rect:
         serializedVersion: 2
-        x: 352
-        y: 525
-        width: 21
-        height: 19
+        x: 288
+        y: 419
+        width: 20
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3569,10 +3569,10 @@ TextureImporter:
       name: Contra_bill_117
       rect:
         serializedVersion: 2
-        x: 417
-        y: 525
-        width: 21
-        height: 20
+        x: 355
+        y: 418
+        width: 16
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3591,10 +3591,10 @@ TextureImporter:
       name: Contra_bill_118
       rect:
         serializedVersion: 2
-        x: 482
-        y: 525
+        x: 416
+        y: 416
         width: 19
-        height: 29
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3613,10 +3613,10 @@ TextureImporter:
       name: Contra_bill_119
       rect:
         serializedVersion: 2
-        x: 547
-        y: 525
+        x: 481
+        y: 415
         width: 19
-        height: 30
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3635,10 +3635,10 @@ TextureImporter:
       name: Contra_bill_120
       rect:
         serializedVersion: 2
-        x: 612
-        y: 524
-        width: 18
-        height: 9
+        x: 544
+        y: 415
+        width: 24
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3657,10 +3657,10 @@ TextureImporter:
       name: Contra_bill_121
       rect:
         serializedVersion: 2
-        x: 677
-        y: 525
-        width: 18
-        height: 9
+        x: 609
+        y: 414
+        width: 24
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3679,10 +3679,10 @@ TextureImporter:
       name: Contra_bill_122
       rect:
         serializedVersion: 2
-        x: 742
-        y: 515
-        width: 18
-        height: 18
+        x: 677
+        y: 411
+        width: 19
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3701,10 +3701,10 @@ TextureImporter:
       name: Contra_bill_123
       rect:
         serializedVersion: 2
-        x: 806
-        y: 518
-        width: 24
-        height: 20
+        x: 743
+        y: 409
+        width: 19
+        height: 39
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3723,10 +3723,10 @@ TextureImporter:
       name: Contra_bill_124
       rect:
         serializedVersion: 2
-        x: 873
-        y: 515
-        width: 17
-        height: 25
+        x: 801
+        y: 416
+        width: 24
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3745,10 +3745,10 @@ TextureImporter:
       name: Contra_bill_125
       rect:
         serializedVersion: 2
-        x: 934
-        y: 517
+        x: 869
+        y: 413
         width: 24
-        height: 20
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3767,10 +3767,10 @@ TextureImporter:
       name: Contra_bill_126
       rect:
         serializedVersion: 2
-        x: 1004
-        y: 515
-        width: 17
-        height: 25
+        x: 934
+        y: 413
+        width: 24
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3789,10 +3789,10 @@ TextureImporter:
       name: Contra_bill_127
       rect:
         serializedVersion: 2
-        x: 27
-        y: 447
-        width: 20
-        height: 42
+        x: 995
+        y: 419
+        width: 32
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3811,10 +3811,10 @@ TextureImporter:
       name: Contra_bill_128
       rect:
         serializedVersion: 2
-        x: 92
-        y: 445
-        width: 22
-        height: 43
+        x: 28
+        y: 345
+        width: 19
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3833,10 +3833,10 @@ TextureImporter:
       name: Contra_bill_129
       rect:
         serializedVersion: 2
-        x: 159
-        y: 444
-        width: 18
-        height: 45
+        x: 93
+        y: 346
+        width: 20
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3855,10 +3855,10 @@ TextureImporter:
       name: Contra_bill_130
       rect:
         serializedVersion: 2
-        x: 222
-        y: 447
-        width: 20
-        height: 41
+        x: 160
+        y: 345
+        width: 16
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3877,10 +3877,10 @@ TextureImporter:
       name: Contra_bill_131
       rect:
         serializedVersion: 2
-        x: 287
-        y: 445
-        width: 22
-        height: 42
+        x: 223
+        y: 345
+        width: 18
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3899,10 +3899,10 @@ TextureImporter:
       name: Contra_bill_132
       rect:
         serializedVersion: 2
-        x: 354
-        y: 444
-        width: 18
-        height: 44
+        x: 288
+        y: 346
+        width: 20
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3921,10 +3921,10 @@ TextureImporter:
       name: Contra_bill_133
       rect:
         serializedVersion: 2
-        x: 415
-        y: 442
-        width: 21
-        height: 47
+        x: 356
+        y: 345
+        width: 16
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3943,10 +3943,10 @@ TextureImporter:
       name: Contra_bill_134
       rect:
         serializedVersion: 2
-        x: 480
-        y: 441
-        width: 21
-        height: 47
+        x: 418
+        y: 345
+        width: 25
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3965,10 +3965,10 @@ TextureImporter:
       name: Contra_bill_135
       rect:
         serializedVersion: 2
-        x: 543
-        y: 441
-        width: 26
-        height: 34
+        x: 483
+        y: 346
+        width: 25
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3987,9 +3987,9 @@ TextureImporter:
       name: Contra_bill_136
       rect:
         serializedVersion: 2
-        x: 608
-        y: 440
-        width: 26
+        x: 550
+        y: 345
+        width: 23
         height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4009,10 +4009,10 @@ TextureImporter:
       name: Contra_bill_137
       rect:
         serializedVersion: 2
-        x: 676
-        y: 437
-        width: 21
-        height: 42
+        x: 613
+        y: 345
+        width: 25
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4031,10 +4031,10 @@ TextureImporter:
       name: Contra_bill_138
       rect:
         serializedVersion: 2
-        x: 742
-        y: 435
-        width: 21
-        height: 41
+        x: 678
+        y: 346
+        width: 25
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4053,10 +4053,10 @@ TextureImporter:
       name: Contra_bill_139
       rect:
         serializedVersion: 2
-        x: 800
-        y: 442
-        width: 26
-        height: 47
+        x: 745
+        y: 345
+        width: 23
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4075,10 +4075,10 @@ TextureImporter:
       name: Contra_bill_140
       rect:
         serializedVersion: 2
-        x: 868
-        y: 439
-        width: 26
-        height: 24
+        x: 811
+        y: 345
+        width: 14
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4097,10 +4097,10 @@ TextureImporter:
       name: Contra_bill_141
       rect:
         serializedVersion: 2
-        x: 933
-        y: 439
-        width: 26
-        height: 24
+        x: 876
+        y: 345
+        width: 14
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4119,10 +4119,10 @@ TextureImporter:
       name: Contra_bill_142
       rect:
         serializedVersion: 2
-        x: 994
-        y: 445
-        width: 34
-        height: 12
+        x: 930
+        y: 346
+        width: 32
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4141,10 +4141,10 @@ TextureImporter:
       name: Contra_bill_143
       rect:
         serializedVersion: 2
-        x: 3
-        y: 422
-        width: 9
-        height: 9
+        x: 995
+        y: 345
+        width: 32
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4163,10 +4163,10 @@ TextureImporter:
       name: Contra_bill_144
       rect:
         serializedVersion: 2
-        x: 11
-        y: 422
-        width: 9
-        height: 9
+        x: 28
+        y: 280
+        width: 19
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4185,10 +4185,10 @@ TextureImporter:
       name: Contra_bill_145
       rect:
         serializedVersion: 2
-        x: 19
-        y: 422
-        width: 9
-        height: 9
+        x: 93
+        y: 281
+        width: 20
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4207,10 +4207,10 @@ TextureImporter:
       name: Contra_bill_146
       rect:
         serializedVersion: 2
-        x: 27
-        y: 422
-        width: 9
-        height: 9
+        x: 161
+        y: 280
+        width: 16
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4229,10 +4229,10 @@ TextureImporter:
       name: Contra_bill_147
       rect:
         serializedVersion: 2
-        x: 35
-        y: 422
-        width: 9
-        height: 9
+        x: 223
+        y: 280
+        width: 19
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4251,10 +4251,10 @@ TextureImporter:
       name: Contra_bill_148
       rect:
         serializedVersion: 2
-        x: 51
-        y: 422
-        width: 9
-        height: 9
+        x: 288
+        y: 281
+        width: 20
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4273,10 +4273,10 @@ TextureImporter:
       name: Contra_bill_149
       rect:
         serializedVersion: 2
-        x: 60
-        y: 422
-        width: 7
-        height: 9
+        x: 356
+        y: 280
+        width: 16
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4295,10 +4295,10 @@ TextureImporter:
       name: Contra_bill_150
       rect:
         serializedVersion: 2
-        x: 67
-        y: 422
-        width: 9
-        height: 9
+        x: 418
+        y: 280
+        width: 21
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4317,10 +4317,10 @@ TextureImporter:
       name: Contra_bill_151
       rect:
         serializedVersion: 2
-        x: 75
-        y: 422
-        width: 9
-        height: 9
+        x: 483
+        y: 281
+        width: 21
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4339,10 +4339,10 @@ TextureImporter:
       name: Contra_bill_152
       rect:
         serializedVersion: 2
-        x: 83
-        y: 422
-        width: 9
-        height: 9
+        x: 549
+        y: 280
+        width: 20
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4361,10 +4361,10 @@ TextureImporter:
       name: Contra_bill_153
       rect:
         serializedVersion: 2
-        x: 868
-        y: 422
-        width: 9
-        height: 9
+        x: 613
+        y: 280
+        width: 21
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4383,10 +4383,10 @@ TextureImporter:
       name: Contra_bill_154
       rect:
         serializedVersion: 2
-        x: 876
-        y: 422
-        width: 9
-        height: 9
+        x: 678
+        y: 281
+        width: 21
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4405,10 +4405,10 @@ TextureImporter:
       name: Contra_bill_155
       rect:
         serializedVersion: 2
-        x: 884
-        y: 422
-        width: 9
-        height: 9
+        x: 744
+        y: 280
+        width: 20
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4427,10 +4427,10 @@ TextureImporter:
       name: Contra_bill_156
       rect:
         serializedVersion: 2
-        x: 933
-        y: 422
-        width: 9
-        height: 9
+        x: 808
+        y: 286
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4449,10 +4449,10 @@ TextureImporter:
       name: Contra_bill_157
       rect:
         serializedVersion: 2
-        x: 941
-        y: 422
-        width: 9
-        height: 9
+        x: 871
+        y: 289
+        width: 19
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4471,10 +4471,10 @@ TextureImporter:
       name: Contra_bill_158
       rect:
         serializedVersion: 2
-        x: 949
-        y: 422
-        width: 9
-        height: 9
+        x: 938
+        y: 288
+        width: 16
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4493,10 +4493,10 @@ TextureImporter:
       name: Contra_bill_159
       rect:
         serializedVersion: 2
-        x: 27
-        y: 371
-        width: 21
-        height: 37
+        x: 1002
+        y: 289
+        width: 19
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4515,10 +4515,10 @@ TextureImporter:
       name: Contra_bill_160
       rect:
         serializedVersion: 2
-        x: 92
-        y: 372
-        width: 22
-        height: 33
+        x: 28
+        y: 224
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4537,10 +4537,10 @@ TextureImporter:
       name: Contra_bill_161
       rect:
         serializedVersion: 2
-        x: 159
-        y: 371
-        width: 18
-        height: 36
+        x: 93
+        y: 229
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4559,10 +4559,10 @@ TextureImporter:
       name: Contra_bill_162
       rect:
         serializedVersion: 2
-        x: 222
-        y: 371
-        width: 20
-        height: 36
+        x: 158
+        y: 230
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4581,10 +4581,10 @@ TextureImporter:
       name: Contra_bill_163
       rect:
         serializedVersion: 2
-        x: 287
-        y: 372
-        width: 22
-        height: 33
+        x: 223
+        y: 231
+        width: 25
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4603,10 +4603,10 @@ TextureImporter:
       name: Contra_bill_164
       rect:
         serializedVersion: 2
-        x: 355
-        y: 371
-        width: 18
-        height: 37
+        x: 288
+        y: 231
+        width: 25
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4625,10 +4625,10 @@ TextureImporter:
       name: Contra_bill_165
       rect:
         serializedVersion: 2
-        x: 417
-        y: 371
-        width: 27
-        height: 36
+        x: 353
+        y: 231
+        width: 19
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4647,10 +4647,10 @@ TextureImporter:
       name: Contra_bill_166
       rect:
         serializedVersion: 2
-        x: 482
-        y: 372
-        width: 27
-        height: 34
+        x: 418
+        y: 231
+        width: 19
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4669,10 +4669,10 @@ TextureImporter:
       name: Contra_bill_167
       rect:
         serializedVersion: 2
-        x: 549
-        y: 371
-        width: 25
-        height: 36
+        x: 483
+        y: 231
+        width: 17
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4691,10 +4691,10 @@ TextureImporter:
       name: Contra_bill_168
       rect:
         serializedVersion: 2
-        x: 612
-        y: 371
-        width: 27
-        height: 35
+        x: 548
+        y: 231
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4713,10 +4713,10 @@ TextureImporter:
       name: Contra_bill_169
       rect:
         serializedVersion: 2
-        x: 677
-        y: 372
-        width: 27
-        height: 33
+        x: 613
+        y: 230
+        width: 16
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4735,10 +4735,10 @@ TextureImporter:
       name: Contra_bill_170
       rect:
         serializedVersion: 2
-        x: 744
-        y: 371
-        width: 25
-        height: 35
+        x: 678
+        y: 231
+        width: 16
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4757,10 +4757,10 @@ TextureImporter:
       name: Contra_bill_171
       rect:
         serializedVersion: 2
-        x: 810
-        y: 371
+        x: 743
+        y: 221
         width: 16
-        height: 47
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4779,10 +4779,10 @@ TextureImporter:
       name: Contra_bill_172
       rect:
         serializedVersion: 2
-        x: 875
-        y: 371
-        width: 16
-        height: 46
+        x: 807
+        y: 224
+        width: 22
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4801,10 +4801,10 @@ TextureImporter:
       name: Contra_bill_173
       rect:
         serializedVersion: 2
-        x: 929
-        y: 372
-        width: 34
-        height: 18
+        x: 874
+        y: 221
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4823,9 +4823,9 @@ TextureImporter:
       name: Contra_bill_174
       rect:
         serializedVersion: 2
-        x: 994
-        y: 371
-        width: 34
+        x: 935
+        y: 223
+        width: 22
         height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4845,10 +4845,10 @@ TextureImporter:
       name: Contra_bill_175
       rect:
         serializedVersion: 2
-        x: 27
-        y: 306
-        width: 21
-        height: 37
+        x: 1005
+        y: 221
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4867,10 +4867,10 @@ TextureImporter:
       name: Contra_bill_176
       rect:
         serializedVersion: 2
-        x: 92
-        y: 307
-        width: 22
-        height: 35
+        x: 28
+        y: 153
+        width: 18
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4889,10 +4889,10 @@ TextureImporter:
       name: Contra_bill_177
       rect:
         serializedVersion: 2
-        x: 160
-        y: 306
-        width: 18
-        height: 37
+        x: 93
+        y: 151
+        width: 20
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4911,10 +4911,10 @@ TextureImporter:
       name: Contra_bill_178
       rect:
         serializedVersion: 2
-        x: 222
-        y: 306
-        width: 21
-        height: 36
+        x: 160
+        y: 150
+        width: 16
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4933,10 +4933,10 @@ TextureImporter:
       name: Contra_bill_179
       rect:
         serializedVersion: 2
-        x: 287
-        y: 307
-        width: 22
-        height: 34
+        x: 223
+        y: 153
+        width: 18
+        height: 39
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4955,10 +4955,10 @@ TextureImporter:
       name: Contra_bill_180
       rect:
         serializedVersion: 2
-        x: 355
-        y: 306
-        width: 18
-        height: 36
+        x: 288
+        y: 151
+        width: 20
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4977,10 +4977,10 @@ TextureImporter:
       name: Contra_bill_181
       rect:
         serializedVersion: 2
-        x: 417
-        y: 306
-        width: 23
-        height: 37
+        x: 355
+        y: 150
+        width: 16
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4999,10 +4999,10 @@ TextureImporter:
       name: Contra_bill_182
       rect:
         serializedVersion: 2
-        x: 482
-        y: 307
-        width: 23
-        height: 35
+        x: 416
+        y: 148
+        width: 19
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5021,10 +5021,10 @@ TextureImporter:
       name: Contra_bill_183
       rect:
         serializedVersion: 2
-        x: 548
-        y: 306
-        width: 22
-        height: 37
+        x: 481
+        y: 147
+        width: 19
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5043,10 +5043,10 @@ TextureImporter:
       name: Contra_bill_184
       rect:
         serializedVersion: 2
-        x: 612
-        y: 306
-        width: 23
-        height: 36
+        x: 544
+        y: 147
+        width: 24
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5065,10 +5065,10 @@ TextureImporter:
       name: Contra_bill_185
       rect:
         serializedVersion: 2
-        x: 677
-        y: 307
-        width: 23
-        height: 34
+        x: 609
+        y: 146
+        width: 24
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5087,10 +5087,10 @@ TextureImporter:
       name: Contra_bill_186
       rect:
         serializedVersion: 2
-        x: 743
-        y: 306
-        width: 22
-        height: 36
+        x: 677
+        y: 143
+        width: 19
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5109,10 +5109,10 @@ TextureImporter:
       name: Contra_bill_187
       rect:
         serializedVersion: 2
-        x: 807
-        y: 312
-        width: 18
-        height: 22
+        x: 743
+        y: 141
+        width: 19
+        height: 39
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5131,10 +5131,10 @@ TextureImporter:
       name: Contra_bill_188
       rect:
         serializedVersion: 2
-        x: 870
-        y: 315
-        width: 21
-        height: 18
+        x: 801
+        y: 148
+        width: 24
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5153,9 +5153,9 @@ TextureImporter:
       name: Contra_bill_189
       rect:
         serializedVersion: 2
-        x: 937
-        y: 314
-        width: 18
+        x: 869
+        y: 145
+        width: 24
         height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -5175,10 +5175,10 @@ TextureImporter:
       name: Contra_bill_190
       rect:
         serializedVersion: 2
-        x: 1001
-        y: 315
-        width: 21
-        height: 18
+        x: 934
+        y: 145
+        width: 24
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5197,10 +5197,10 @@ TextureImporter:
       name: Contra_bill_191
       rect:
         serializedVersion: 2
-        x: 27
-        y: 250
-        width: 18
-        height: 17
+        x: 995
+        y: 151
+        width: 32
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5219,10 +5219,10 @@ TextureImporter:
       name: Contra_bill_192
       rect:
         serializedVersion: 2
-        x: 92
-        y: 255
-        width: 18
-        height: 17
+        x: 6
+        y: 102
+        width: 14
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5241,10 +5241,10 @@ TextureImporter:
       name: Contra_bill_193
       rect:
         serializedVersion: 2
-        x: 157
-        y: 256
-        width: 18
-        height: 17
+        x: 21
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5263,10 +5263,10 @@ TextureImporter:
       name: Contra_bill_194
       rect:
         serializedVersion: 2
-        x: 222
-        y: 257
-        width: 27
-        height: 18
+        x: 30
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5285,10 +5285,10 @@ TextureImporter:
       name: Contra_bill_195
       rect:
         serializedVersion: 2
-        x: 287
-        y: 257
-        width: 27
-        height: 19
+        x: 42
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5307,10 +5307,10 @@ TextureImporter:
       name: Contra_bill_196
       rect:
         serializedVersion: 2
-        x: 352
-        y: 257
-        width: 21
-        height: 19
+        x: 54
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5329,10 +5329,10 @@ TextureImporter:
       name: Contra_bill_197
       rect:
         serializedVersion: 2
-        x: 417
-        y: 257
-        width: 21
-        height: 20
+        x: 66
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5351,10 +5351,10 @@ TextureImporter:
       name: Contra_bill_198
       rect:
         serializedVersion: 2
-        x: 482
-        y: 257
-        width: 19
-        height: 29
+        x: 75
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5373,10 +5373,10 @@ TextureImporter:
       name: Contra_bill_199
       rect:
         serializedVersion: 2
-        x: 547
-        y: 257
-        width: 19
-        height: 30
+        x: 84
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5395,10 +5395,10 @@ TextureImporter:
       name: Contra_bill_200
       rect:
         serializedVersion: 2
-        x: 612
-        y: 256
-        width: 18
-        height: 9
+        x: 96
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5417,10 +5417,10 @@ TextureImporter:
       name: Contra_bill_201
       rect:
         serializedVersion: 2
-        x: 677
-        y: 257
-        width: 18
-        height: 9
+        x: 108
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5439,10 +5439,10 @@ TextureImporter:
       name: Contra_bill_202
       rect:
         serializedVersion: 2
-        x: 742
-        y: 247
-        width: 18
-        height: 18
+        x: 120
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5461,10 +5461,10 @@ TextureImporter:
       name: Contra_bill_203
       rect:
         serializedVersion: 2
-        x: 806
-        y: 250
-        width: 24
-        height: 20
+        x: 130
+        y: 102
+        width: 13
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5483,10 +5483,10 @@ TextureImporter:
       name: Contra_bill_204
       rect:
         serializedVersion: 2
-        x: 873
-        y: 247
-        width: 17
-        height: 25
+        x: 146
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5505,10 +5505,10 @@ TextureImporter:
       name: Contra_bill_205
       rect:
         serializedVersion: 2
-        x: 934
-        y: 249
-        width: 24
-        height: 20
+        x: 155
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5527,10 +5527,10 @@ TextureImporter:
       name: Contra_bill_206
       rect:
         serializedVersion: 2
-        x: 1004
-        y: 247
-        width: 17
-        height: 25
+        x: 167
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5549,10 +5549,10 @@ TextureImporter:
       name: Contra_bill_207
       rect:
         serializedVersion: 2
-        x: 27
-        y: 179
-        width: 20
-        height: 42
+        x: 179
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5571,10 +5571,10 @@ TextureImporter:
       name: Contra_bill_208
       rect:
         serializedVersion: 2
-        x: 92
-        y: 177
-        width: 22
-        height: 43
+        x: 191
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5593,10 +5593,10 @@ TextureImporter:
       name: Contra_bill_209
       rect:
         serializedVersion: 2
-        x: 159
-        y: 176
-        width: 18
-        height: 45
+        x: 200
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5615,10 +5615,10 @@ TextureImporter:
       name: Contra_bill_210
       rect:
         serializedVersion: 2
-        x: 222
-        y: 179
-        width: 20
-        height: 41
+        x: 209
+        y: 111
+        width: 15
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5637,10 +5637,10 @@ TextureImporter:
       name: Contra_bill_211
       rect:
         serializedVersion: 2
-        x: 287
-        y: 177
-        width: 22
-        height: 42
+        x: 221
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5659,10 +5659,10 @@ TextureImporter:
       name: Contra_bill_212
       rect:
         serializedVersion: 2
-        x: 354
-        y: 176
-        width: 18
-        height: 44
+        x: 233
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5681,10 +5681,10 @@ TextureImporter:
       name: Contra_bill_213
       rect:
         serializedVersion: 2
-        x: 415
-        y: 174
-        width: 21
-        height: 47
+        x: 245
+        y: 119
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5703,10 +5703,10 @@ TextureImporter:
       name: Contra_bill_214
       rect:
         serializedVersion: 2
-        x: 480
-        y: 173
-        width: 21
-        height: 47
+        x: 21
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5725,10 +5725,10 @@ TextureImporter:
       name: Contra_bill_215
       rect:
         serializedVersion: 2
-        x: 543
-        y: 173
-        width: 26
-        height: 34
+        x: 39
+        y: 102
+        width: 23
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5747,10 +5747,10 @@ TextureImporter:
       name: Contra_bill_216
       rect:
         serializedVersion: 2
-        x: 608
-        y: 172
-        width: 26
-        height: 34
+        x: 64
+        y: 97
+        width: 20
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5769,10 +5769,10 @@ TextureImporter:
       name: Contra_bill_217
       rect:
         serializedVersion: 2
-        x: 676
-        y: 169
-        width: 21
-        height: 42
+        x: 85
+        y: 86
+        width: 16
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5791,10 +5791,10 @@ TextureImporter:
       name: Contra_bill_218
       rect:
         serializedVersion: 2
-        x: 742
-        y: 167
-        width: 21
-        height: 41
+        x: 104
+        y: 95
+        width: 22
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5813,10 +5813,10 @@ TextureImporter:
       name: Contra_bill_219
       rect:
         serializedVersion: 2
-        x: 800
-        y: 174
-        width: 26
-        height: 47
+        x: 146
+        y: 102
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5835,10 +5835,10 @@ TextureImporter:
       name: Contra_bill_220
       rect:
         serializedVersion: 2
-        x: 868
-        y: 171
-        width: 26
-        height: 24
+        x: 163
+        y: 102
+        width: 20
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5857,10 +5857,10 @@ TextureImporter:
       name: Contra_bill_221
       rect:
         serializedVersion: 2
-        x: 933
-        y: 171
-        width: 26
-        height: 24
+        x: 188
+        y: 99
+        width: 17
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5879,10 +5879,10 @@ TextureImporter:
       name: Contra_bill_222
       rect:
         serializedVersion: 2
-        x: 994
-        y: 177
-        width: 34
-        height: 12
+        x: 235
+        y: 103
+        width: 24
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5901,10 +5901,10 @@ TextureImporter:
       name: Contra_bill_223
       rect:
         serializedVersion: 2
-        x: 5
-        y: 128
-        width: 16
-        height: 28
+        x: 260
+        y: 103
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5923,10 +5923,10 @@ TextureImporter:
       name: Contra_bill_224
       rect:
         serializedVersion: 2
-        x: 20
-        y: 145
-        width: 10
-        height: 18
+        x: 285
+        y: 103
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5945,10 +5945,10 @@ TextureImporter:
       name: Contra_bill_225
       rect:
         serializedVersion: 2
-        x: 29
-        y: 145
-        width: 10
-        height: 18
+        x: 310
+        y: 103
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5967,10 +5967,10 @@ TextureImporter:
       name: Contra_bill_226
       rect:
         serializedVersion: 2
-        x: 41
-        y: 145
-        width: 10
-        height: 18
+        x: 335
+        y: 103
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5989,10 +5989,10 @@ TextureImporter:
       name: Contra_bill_227
       rect:
         serializedVersion: 2
-        x: 53
-        y: 145
-        width: 10
-        height: 18
+        x: 360
+        y: 103
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6011,10 +6011,10 @@ TextureImporter:
       name: Contra_bill_228
       rect:
         serializedVersion: 2
-        x: 65
-        y: 145
-        width: 10
-        height: 18
+        x: 385
+        y: 103
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6033,10 +6033,10 @@ TextureImporter:
       name: Contra_bill_229
       rect:
         serializedVersion: 2
-        x: 74
-        y: 145
-        width: 10
-        height: 18
+        x: 4
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6055,10 +6055,10 @@ TextureImporter:
       name: Contra_bill_230
       rect:
         serializedVersion: 2
-        x: 83
-        y: 145
-        width: 10
-        height: 18
+        x: 21
+        y: 85
+        width: 16
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6077,10 +6077,10 @@ TextureImporter:
       name: Contra_bill_231
       rect:
         serializedVersion: 2
-        x: 95
-        y: 145
-        width: 10
-        height: 18
+        x: 38
+        y: 85
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6099,10 +6099,10 @@ TextureImporter:
       name: Contra_bill_232
       rect:
         serializedVersion: 2
-        x: 107
-        y: 145
-        width: 10
-        height: 18
+        x: 67
+        y: 63
+        width: 16
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6121,9 +6121,9 @@ TextureImporter:
       name: Contra_bill_233
       rect:
         serializedVersion: 2
-        x: 119
-        y: 145
-        width: 10
+        x: 104
+        y: 75
+        width: 23
         height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6144,9 +6144,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 129
-        y: 128
-        width: 15
-        height: 30
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6165,10 +6165,10 @@ TextureImporter:
       name: Contra_bill_235
       rect:
         serializedVersion: 2
-        x: 145
-        y: 145
-        width: 10
-        height: 18
+        x: 146
+        y: 85
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6187,10 +6187,10 @@ TextureImporter:
       name: Contra_bill_236
       rect:
         serializedVersion: 2
-        x: 154
-        y: 145
-        width: 10
-        height: 18
+        x: 163
+        y: 85
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6209,10 +6209,10 @@ TextureImporter:
       name: Contra_bill_237
       rect:
         serializedVersion: 2
-        x: 166
-        y: 145
-        width: 10
-        height: 18
+        x: 235
+        y: 86
+        width: 24
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6231,10 +6231,10 @@ TextureImporter:
       name: Contra_bill_238
       rect:
         serializedVersion: 2
-        x: 178
-        y: 145
-        width: 10
-        height: 18
+        x: 260
+        y: 85
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6253,10 +6253,10 @@ TextureImporter:
       name: Contra_bill_239
       rect:
         serializedVersion: 2
-        x: 190
-        y: 145
-        width: 10
-        height: 18
+        x: 285
+        y: 85
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6275,10 +6275,10 @@ TextureImporter:
       name: Contra_bill_240
       rect:
         serializedVersion: 2
-        x: 199
-        y: 145
-        width: 10
-        height: 18
+        x: 310
+        y: 85
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6297,10 +6297,10 @@ TextureImporter:
       name: Contra_bill_241
       rect:
         serializedVersion: 2
-        x: 208
-        y: 137
-        width: 17
-        height: 26
+        x: 335
+        y: 85
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6319,10 +6319,10 @@ TextureImporter:
       name: Contra_bill_242
       rect:
         serializedVersion: 2
-        x: 220
-        y: 145
-        width: 10
-        height: 18
+        x: 360
+        y: 85
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6341,10 +6341,10 @@ TextureImporter:
       name: Contra_bill_243
       rect:
         serializedVersion: 2
-        x: 232
-        y: 145
-        width: 10
-        height: 18
+        x: 4
+        y: 65
+        width: 16
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6363,10 +6363,10 @@ TextureImporter:
       name: Contra_bill_244
       rect:
         serializedVersion: 2
-        x: 244
-        y: 145
-        width: 10
-        height: 18
+        x: 25
+        y: 65
+        width: 12
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6385,10 +6385,10 @@ TextureImporter:
       name: Contra_bill_245
       rect:
         serializedVersion: 2
-        x: 253
-        y: 145
-        width: 10
-        height: 18
+        x: 38
+        y: 65
+        width: 23
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6407,10 +6407,10 @@ TextureImporter:
       name: Contra_bill_246
       rect:
         serializedVersion: 2
-        x: 262
-        y: 145
-        width: 10
-        height: 18
+        x: 59
+        y: 75
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6429,9 +6429,9 @@ TextureImporter:
       name: Contra_bill_247
       rect:
         serializedVersion: 2
-        x: 271
-        y: 145
-        width: 10
+        x: 129
+        y: 66
+        width: 16
         height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6451,9 +6451,9 @@ TextureImporter:
       name: Contra_bill_248
       rect:
         serializedVersion: 2
-        x: 280
-        y: 145
-        width: 10
+        x: 146
+        y: 66
+        width: 8
         height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -6473,10 +6473,10 @@ TextureImporter:
       name: Contra_bill_249
       rect:
         serializedVersion: 2
-        x: 289
-        y: 145
-        width: 10
-        height: 18
+        x: 163
+        y: 60
+        width: 21
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6495,10 +6495,10 @@ TextureImporter:
       name: Contra_bill_250
       rect:
         serializedVersion: 2
-        x: 298
-        y: 145
-        width: 10
-        height: 18
+        x: 235
+        y: 69
+        width: 24
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6517,10 +6517,10 @@ TextureImporter:
       name: Contra_bill_251
       rect:
         serializedVersion: 2
-        x: 307
-        y: 145
-        width: 10
-        height: 18
+        x: 260
+        y: 69
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6539,10 +6539,10 @@ TextureImporter:
       name: Contra_bill_252
       rect:
         serializedVersion: 2
-        x: 316
-        y: 145
-        width: 10
-        height: 18
+        x: 285
+        y: 69
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6561,10 +6561,10 @@ TextureImporter:
       name: Contra_bill_253
       rect:
         serializedVersion: 2
-        x: 325
-        y: 145
-        width: 10
-        height: 18
+        x: 310
+        y: 69
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6583,10 +6583,10 @@ TextureImporter:
       name: Contra_bill_254
       rect:
         serializedVersion: 2
-        x: 334
-        y: 145
-        width: 10
-        height: 18
+        x: 335
+        y: 69
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6605,10 +6605,10 @@ TextureImporter:
       name: Contra_bill_255
       rect:
         serializedVersion: 2
-        x: 343
-        y: 145
-        width: 10
-        height: 18
+        x: 360
+        y: 69
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6627,10 +6627,10 @@ TextureImporter:
       name: Contra_bill_256
       rect:
         serializedVersion: 2
-        x: 352
-        y: 145
-        width: 10
-        height: 18
+        x: 385
+        y: 69
+        width: 24
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6649,10 +6649,10 @@ TextureImporter:
       name: Contra_bill_257
       rect:
         serializedVersion: 2
-        x: 361
-        y: 145
-        width: 10
-        height: 18
+        x: 60
+        y: 13
+        width: 31
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6671,10 +6671,10 @@ TextureImporter:
       name: Contra_bill_258
       rect:
         serializedVersion: 2
-        x: 370
-        y: 145
+        x: 110
+        y: 54
         width: 10
-        height: 18
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6693,10 +6693,10 @@ TextureImporter:
       name: Contra_bill_259
       rect:
         serializedVersion: 2
-        x: 379
-        y: 145
-        width: 10
-        height: 18
+        x: 185
+        y: 35
+        width: 24
+        height: 37
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6715,10 +6715,10 @@ TextureImporter:
       name: Contra_bill_260
       rect:
         serializedVersion: 2
-        x: 388
-        y: 145
-        width: 10
-        height: 18
+        x: 4
+        y: 19
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6737,10 +6737,10 @@ TextureImporter:
       name: Contra_bill_261
       rect:
         serializedVersion: 2
-        x: 397
-        y: 145
-        width: 10
-        height: 18
+        x: 21
+        y: 29
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6759,10 +6759,10 @@ TextureImporter:
       name: Contra_bill_262
       rect:
         serializedVersion: 2
-        x: 406
-        y: 145
-        width: 10
-        height: 18
+        x: 33
+        y: 30
+        width: 19
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6781,10 +6781,10 @@ TextureImporter:
       name: Contra_bill_263
       rect:
         serializedVersion: 2
-        x: 419
-        y: 154
-        width: 9
-        height: 9
+        x: 42
+        y: 10
+        width: 11
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6803,10 +6803,10 @@ TextureImporter:
       name: Contra_bill_264
       rect:
         serializedVersion: 2
-        x: 427
-        y: 154
-        width: 9
-        height: 9
+        x: 129
+        y: 19
+        width: 16
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6825,10 +6825,10 @@ TextureImporter:
       name: Contra_bill_265
       rect:
         serializedVersion: 2
-        x: 435
-        y: 154
-        width: 9
-        height: 9
+        x: 146
+        y: 19
+        width: 14
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6844,1684 +6844,78 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Contra_bill_266
+      name: Contra_bill_0
       rect:
         serializedVersion: 2
-        x: 451
-        y: 154
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d51fb3ba04f1ab340800000000000000
-      internalID: 4880247508820554077
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_267
-      rect:
-        serializedVersion: 2
-        x: 459
-        y: 154
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8557ba62f037bf590800000000000000
-      internalID: -7639385833993439912
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_268
-      rect:
-        serializedVersion: 2
-        x: 467
-        y: 154
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 96f1efe9344314720800000000000000
-      internalID: 2828599506000289641
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_269
-      rect:
-        serializedVersion: 2
-        x: 488
-        y: 154
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e058314b1fd0b4570800000000000000
-      internalID: 8451864457450325262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_270
-      rect:
-        serializedVersion: 2
-        x: 488
-        y: 146
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9514a0a71d0214a80800000000000000
-      internalID: -8484464138921557671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_271
-      rect:
-        serializedVersion: 2
-        x: 496
-        y: 154
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac32bc59d16561b50800000000000000
-      internalID: 6563528192006235082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_272
-      rect:
-        serializedVersion: 2
-        x: 496
-        y: 146
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ad26fc8be79091d0800000000000000
-      internalID: -3346007485198226014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_273
-      rect:
-        serializedVersion: 2
-        x: 504
-        y: 154
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 151fa67b5df06bf80800000000000000
-      internalID: -8091262269944827567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_274
-      rect:
-        serializedVersion: 2
-        x: 504
-        y: 146
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 07dd55031159c4b60800000000000000
-      internalID: 7731718561346215280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_275
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 154
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 68c7d9af9f8f19480800000000000000
-      internalID: -8894054036544848762
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_276
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 146
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5ca0ab015b8b74b0800000000000000
-      internalID: -5441602544543421346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_277
-      rect:
-        serializedVersion: 2
-        x: 520
-        y: 154
-        width: 15
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6da05b75fbe53ff30800000000000000
-      internalID: 4608131019633396438
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_278
-      rect:
-        serializedVersion: 2
-        x: 520
-        y: 146
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b8ba607172a5e060800000000000000
-      internalID: 6982165405408868531
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_279
-      rect:
-        serializedVersion: 2
-        x: 528
-        y: 146
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 536cdb55b31c253e0800000000000000
-      internalID: -2066376818423904715
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_280
-      rect:
-        serializedVersion: 2
-        x: 868
-        y: 154
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a18ec234f399ce50800000000000000
-      internalID: 6830152986917765538
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_281
-      rect:
-        serializedVersion: 2
-        x: 876
-        y: 154
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a783a5f38288ed0a0800000000000000
-      internalID: -6854891876368369542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_282
-      rect:
-        serializedVersion: 2
-        x: 884
-        y: 154
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6c5d1894f0aa68020800000000000000
-      internalID: 2343747638727398854
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_283
-      rect:
-        serializedVersion: 2
-        x: 933
-        y: 154
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c79a4d28f315b200800000000000000
-      internalID: 195084115493165001
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_284
-      rect:
-        serializedVersion: 2
-        x: 941
-        y: 154
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2551bc1ad032c53c0800000000000000
-      internalID: -4369578997000235694
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_285
-      rect:
-        serializedVersion: 2
-        x: 949
-        y: 154
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 680b978c7b7faa5a0800000000000000
-      internalID: -6509117942696136570
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_286
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 111
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6791e721318562080800000000000000
-      internalID: -9212579148801894026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_287
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 128
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0990b5d1c8b037bc0800000000000000
-      internalID: -3786670165272622704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_288
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 128
-        width: 25
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 73321032e5de250a0800000000000000
-      internalID: -6894187090980822217
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_289
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 123
-        width: 22
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 388996f4d8ccb7e80800000000000000
-      internalID: -8179719390893598589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_290
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 112
-        width: 18
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c4e9cf27df2f525f0800000000000000
-      internalID: -781951789909107124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_291
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 121
-        width: 24
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e388a56a79a43e80800000000000000
-      internalID: -8199742678378183705
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_292
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 111
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2214a77d04772ec40800000000000000
-      internalID: 5540121611995857186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_293
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 128
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45cba419afa8e5220800000000000000
-      internalID: 2476569653884402772
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_294
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 111
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f7f84cbc00676fc0800000000000000
-      internalID: -3501724577442498567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_295
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 128
-        width: 22
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 177554d51fef9eef0800000000000000
-      internalID: -78251205896874127
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_296
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 111
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 17df894aef48f6b50800000000000000
-      internalID: 6588631009084374385
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_297
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 125
+        x: 28
+        y: 881
         width: 19
-        height: 21
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3de1fe38114eadf80800000000000000
-      internalID: -8080895817483870509
+      spriteID: 4b6dd508a6762ff4aadcfc6bbb2ba46c
+      internalID: 674658452762773449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Contra_bill_298
+      name: Contra_bill_1
       rect:
         serializedVersion: 2
-        x: 234
-        y: 129
-        width: 26
-        height: 16
+        x: 93
+        y: 882
+        width: 20
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 604c053512c53f730800000000000000
-      internalID: 4031667389628204038
+      spriteID: e7de313161b70ce42aa86c21e9f93ace
+      internalID: 6109472005772198556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Contra_bill_299
+      name: Contra_bill_2
       rect:
         serializedVersion: 2
-        x: 234
-        y: 111
-        width: 26
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8b9ec88e51b5747d0800000000000000
-      internalID: -2934276482554598984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_300
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 129
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 92f9ea0e08d000110800000000000000
-      internalID: 1224993945821290281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_301
-      rect:
-        serializedVersion: 2
-        x: 284
-        y: 129
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b154ced82d2d71c0800000000000000
-      internalID: -4504394398741278286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_302
-      rect:
-        serializedVersion: 2
-        x: 309
-        y: 129
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8a5a964db158af050800000000000000
-      internalID: 5835122621786203560
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_303
-      rect:
-        serializedVersion: 2
-        x: 334
-        y: 129
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4056b98d9e2203bd0800000000000000
-      internalID: -2652581792764435196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_304
-      rect:
-        serializedVersion: 2
-        x: 359
-        y: 129
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f29ddab79138e5530800000000000000
-      internalID: 3845655277293394223
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_305
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 129
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f29be78992a4dbb30800000000000000
-      internalID: 4304678361348618543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_306
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 129
-        width: 66
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ff5e4768cfee2e680800000000000000
-      internalID: -8727150359535622657
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_307
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 92
-        width: 66
-        height: 38
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f3b19b2a119d525b0800000000000000
-      internalID: -5393666308938589377
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_308
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 129
-        width: 66
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 22b35625acc7e97e0800000000000000
-      internalID: -1756829596220310750
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_309
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 92
-        width: 66
-        height: 38
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 231a157c40ea2a180800000000000000
-      internalID: -9105524161042603726
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_310
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 91
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2db11d8d17ce4ba70800000000000000
-      internalID: 8841951942148168658
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_311
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 111
-        width: 18
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3489918fed12f8620800000000000000
-      internalID: 2778476736639768643
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_312
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 91
-        width: 14
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 126cfd00949f1dee0800000000000000
-      internalID: -1237934330607581663
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_313
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 111
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 02a9940a16e7e45b0800000000000000
-      internalID: -5382225546895058400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_314
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 91
-        width: 25
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: caeb1d47a6521f270800000000000000
-      internalID: 8282442328867716780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_315
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 89
-        width: 18
-        height: 25
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ad38d7ca3d032f280800000000000000
-      internalID: -9011086218724801574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_316
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 101
-        width: 25
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d95ff8af5cc1c14a0800000000000000
-      internalID: -6621385715503598179
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_317
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 92
-        width: 18
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 16fbdbbb87a942ee0800000000000000
-      internalID: -1286733750184591519
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_318
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 92
-        width: 10
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 48227ac33b6cd1140800000000000000
-      internalID: 4692124859908956804
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_319
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 86
-        width: 23
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b69a5e06b04f89300800000000000000
-      internalID: 259225308281284971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_320
-      rect:
-        serializedVersion: 2
-        x: 234
-        y: 95
-        width: 26
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f30a2a4b1723ff000800000000000000
-      internalID: 71831583004467263
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_321
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 111
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3312d10c6d7331100800000000000000
-      internalID: 77467014081093939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_322
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 95
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f323d29bc2087d1f0800000000000000
-      internalID: -1020205861002464705
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_323
-      rect:
-        serializedVersion: 2
-        x: 284
-        y: 111
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f25c197386017f440800000000000000
-      internalID: 4969458753621574959
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_324
-      rect:
-        serializedVersion: 2
-        x: 284
-        y: 95
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 715c64d7326ee7280800000000000000
-      internalID: -9043537961613343465
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_325
-      rect:
-        serializedVersion: 2
-        x: 309
-        y: 111
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd6ca632345821a60800000000000000
-      internalID: 7643318041004656347
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_326
-      rect:
-        serializedVersion: 2
-        x: 309
-        y: 95
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: edfeebb00a3478c70800000000000000
-      internalID: 8973215137229893598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_327
-      rect:
-        serializedVersion: 2
-        x: 334
-        y: 111
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b6c1d5d29e318760800000000000000
-      internalID: 7458311258275694258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_328
-      rect:
-        serializedVersion: 2
-        x: 334
-        y: 95
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cb7724582445925a0800000000000000
-      internalID: -6545607938726004804
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_329
-      rect:
-        serializedVersion: 2
-        x: 359
-        y: 111
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 952c241ecf49a92a0800000000000000
-      internalID: -6729902879319866791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_330
-      rect:
-        serializedVersion: 2
-        x: 359
-        y: 95
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0b0c72ae316220630800000000000000
-      internalID: 3891714894976237744
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_331
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 95
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3102419fa0a36a500800000000000000
-      internalID: 407076635126538259
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_332
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 101
-        width: 10
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 405670ad15aef50b0800000000000000
-      internalID: -5737609762975554300
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_333
-      rect:
-        serializedVersion: 2
-        x: 109
-        y: 80
-        width: 12
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 196387526f571bb00800000000000000
-      internalID: 842584305346033297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_334
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 45
-        width: 18
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 486d2df66816d9450800000000000000
-      internalID: 6097136700559120004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_335
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 55
-        width: 10
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a5d969db66e52940800000000000000
-      internalID: 5270872289790514601
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_336
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 56
-        width: 21
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aceababb860b298d0800000000000000
-      internalID: -2841014451045683510
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_337
-      rect:
-        serializedVersion: 2
-        x: 59
-        y: 39
-        width: 33
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cda205b484b9d9f80800000000000000
-      internalID: -8098145820138788132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_338
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 45
-        width: 18
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3f224dc72ae2b0890800000000000000
-      internalID: -7490842279786831117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_339
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 45
+        x: 160
+        y: 881
         width: 16
-        height: 26
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 09a7220aeec54ef20800000000000000
-      internalID: 3450985394431228560
+      spriteID: 06aebc4365fda914cad625bce7b0898b
+      internalID: 8345841405360240925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Contra_bill_340
+      name: Contra_bill_3
       rect:
         serializedVersion: 2
-        x: 184
-        y: 61
-        width: 26
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1c52eafdad4ffa290800000000000000
-      internalID: -7876808002354928191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_341
-      rect:
-        serializedVersion: 2
-        x: 217
-        y: 69
+        x: 223
+        y: 881
         width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf2e5ce3b01d0d6c0800000000000000
-      internalID: -4120563812816002308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_342
-      rect:
-        serializedVersion: 2
-        x: 234
-        y: 61
-        width: 34
         height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -8529,21 +6923,65 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eab8b911392c3a020800000000000000
-      internalID: 2351937367328918446
+      spriteID: 8d3650bbf7429334994f181987591f10
+      internalID: 3667270330160397642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Contra_bill_343
+      name: Contra_bill_68
       rect:
         serializedVersion: 2
-        x: 267
-        y: 61
-        width: 26
+        x: 288
+        y: 614
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a56f2fd428bbf42841a19fb7d2af28
+      internalID: -5133701425219590290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_69
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 613
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59590750f4ff0143a67047319d223bb
+      internalID: -2475577852705006382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_70
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 613
+        width: 25
         height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -8551,65 +6989,43 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2d1838b00a34071e0800000000000000
-      internalID: -2202185863117176366
+      spriteID: 3207ba278f5b10a4083612a0830c58fa
+      internalID: -4316198311207603674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Contra_bill_344
+      name: Contra_bill_71
       rect:
         serializedVersion: 2
-        x: 292
-        y: 69
-        width: 18
-        height: 22
+        x: 483
+        y: 614
+        width: 25
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fcd201ba7e6c03fe0800000000000000
-      internalID: -1211249601452954161
+      spriteID: 1e1e659d7848637488b8277c6197fef5
+      internalID: 6386253075091068032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Contra_bill_345
+      name: Contra_bill_72
       rect:
         serializedVersion: 2
-        x: 316
-        y: 69
-        width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 11341604a9f565fd0800000000000000
-      internalID: -2353588639144787183
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_346
-      rect:
-        serializedVersion: 2
-        x: 333
-        y: 61
-        width: 34
+        x: 550
+        y: 613
+        width: 23
         height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -8617,296 +7033,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3f8e4895197a7ee40800000000000000
-      internalID: 5685697297292519667
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_347
-      rect:
-        serializedVersion: 2
-        x: 366
-        y: 61
-        width: 26
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b5b4bbb2717b9330800000000000000
-      internalID: 3718690654913869241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_348
-      rect:
-        serializedVersion: 2
-        x: 391
-        y: 69
-        width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b96bbeec4b9164c0800000000000000
-      internalID: -4295981814809663054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_349
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 36
-        width: 13
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6ae89954d16454c50800000000000000
-      internalID: 6648797516418092710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_350
-      rect:
-        serializedVersion: 2
-        x: 181
-        y: 28
-        width: 10
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 22c4f9941abe1ebb0800000000000000
-      internalID: -4908383040899691486
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_351
-      rect:
-        serializedVersion: 2
-        x: 190
-        y: 28
-        width: 10
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3724b20bbfe873f90800000000000000
-      internalID: -6973948286316363149
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_352
-      rect:
-        serializedVersion: 2
-        x: 199
-        y: 28
-        width: 10
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7f46784eb717b64e0800000000000000
-      internalID: -1987370033624947465
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_353
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 28
-        width: 10
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a13abf74aa594120800000000000000
-      internalID: 2398547939115544998
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_354
-      rect:
-        serializedVersion: 2
-        x: 217
-        y: 28
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d067f544235bc19d0800000000000000
-      internalID: -2802165640631192051
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_355
-      rect:
-        serializedVersion: 2
-        x: 250
-        y: 28
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8e032889b72e3ce80800000000000000
-      internalID: -8159429079397682968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_356
-      rect:
-        serializedVersion: 2
-        x: 283
-        y: 28
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 987eaae93995f5bd0800000000000000
-      internalID: -2639292366058756215
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_357
-      rect:
-        serializedVersion: 2
-        x: 316
-        y: 28
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 15e457974264f9a70800000000000000
-      internalID: 8835858116394700369
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_358
-      rect:
-        serializedVersion: 2
-        x: 349
-        y: 28
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 51d6f13bb9c074ef0800000000000000
-      internalID: -124116601864753899
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_bill_359
-      rect:
-        serializedVersion: 2
-        x: 382
-        y: 28
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 85d391762b9b6d9e0800000000000000
-      internalID: -1596884841971237544
+      spriteID: 2d74ca8e378c9ee42a042e1b68c8a3c6
+      internalID: 5067874766906152498
       vertices: []
       indices: 
       edges: []
@@ -8923,7 +7053,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Contra_bill_0: 674658452762773449
       Contra_bill_1: 6109472005772198556
@@ -9111,110 +7243,16 @@ TextureImporter:
       Contra_bill_263: -780628686554643189
       Contra_bill_264: 5334418736977646338
       Contra_bill_265: -5663730555443942951
-      Contra_bill_266: 4880247508820554077
-      Contra_bill_267: -7639385833993439912
-      Contra_bill_268: 2828599506000289641
-      Contra_bill_269: 8451864457450325262
       Contra_bill_27: 7051049600650063362
-      Contra_bill_270: -8484464138921557671
-      Contra_bill_271: 6563528192006235082
-      Contra_bill_272: -3346007485198226014
-      Contra_bill_273: -8091262269944827567
-      Contra_bill_274: 7731718561346215280
-      Contra_bill_275: -8894054036544848762
-      Contra_bill_276: -5441602544543421346
-      Contra_bill_277: 4608131019633396438
-      Contra_bill_278: 6982165405408868531
-      Contra_bill_279: -2066376818423904715
       Contra_bill_28: -576799225368480549
-      Contra_bill_280: 6830152986917765538
-      Contra_bill_281: -6854891876368369542
-      Contra_bill_282: 2343747638727398854
-      Contra_bill_283: 195084115493165001
-      Contra_bill_284: -4369578997000235694
-      Contra_bill_285: -6509117942696136570
-      Contra_bill_286: -9212579148801894026
-      Contra_bill_287: -3786670165272622704
-      Contra_bill_288: -6894187090980822217
-      Contra_bill_289: -8179719390893598589
       Contra_bill_29: -5105416297083770635
-      Contra_bill_290: -781951789909107124
-      Contra_bill_291: -8199742678378183705
-      Contra_bill_292: 5540121611995857186
-      Contra_bill_293: 2476569653884402772
-      Contra_bill_294: -3501724577442498567
-      Contra_bill_295: -78251205896874127
-      Contra_bill_296: 6588631009084374385
-      Contra_bill_297: -8080895817483870509
-      Contra_bill_298: 4031667389628204038
-      Contra_bill_299: -2934276482554598984
       Contra_bill_3: 3667270330160397642
       Contra_bill_30: 2685400083988041076
-      Contra_bill_300: 1224993945821290281
-      Contra_bill_301: -4504394398741278286
-      Contra_bill_302: 5835122621786203560
-      Contra_bill_303: -2652581792764435196
-      Contra_bill_304: 3845655277293394223
-      Contra_bill_305: 4304678361348618543
-      Contra_bill_306: -8727150359535622657
-      Contra_bill_307: -5393666308938589377
-      Contra_bill_308: -1756829596220310750
-      Contra_bill_309: -9105524161042603726
       Contra_bill_31: -3729045189885990118
-      Contra_bill_310: 8841951942148168658
-      Contra_bill_311: 2778476736639768643
-      Contra_bill_312: -1237934330607581663
-      Contra_bill_313: -5382225546895058400
-      Contra_bill_314: 8282442328867716780
-      Contra_bill_315: -9011086218724801574
-      Contra_bill_316: -6621385715503598179
-      Contra_bill_317: -1286733750184591519
-      Contra_bill_318: 4692124859908956804
-      Contra_bill_319: 259225308281284971
       Contra_bill_32: -5743272845834227694
-      Contra_bill_320: 71831583004467263
-      Contra_bill_321: 77467014081093939
-      Contra_bill_322: -1020205861002464705
-      Contra_bill_323: 4969458753621574959
-      Contra_bill_324: -9043537961613343465
-      Contra_bill_325: 7643318041004656347
-      Contra_bill_326: 8973215137229893598
-      Contra_bill_327: 7458311258275694258
-      Contra_bill_328: -6545607938726004804
-      Contra_bill_329: -6729902879319866791
       Contra_bill_33: 8114323658937579762
-      Contra_bill_330: 3891714894976237744
-      Contra_bill_331: 407076635126538259
-      Contra_bill_332: -5737609762975554300
-      Contra_bill_333: 842584305346033297
-      Contra_bill_334: 6097136700559120004
-      Contra_bill_335: 5270872289790514601
-      Contra_bill_336: -2841014451045683510
-      Contra_bill_337: -8098145820138788132
-      Contra_bill_338: -7490842279786831117
-      Contra_bill_339: 3450985394431228560
       Contra_bill_34: 5553912177671512696
-      Contra_bill_340: -7876808002354928191
-      Contra_bill_341: -4120563812816002308
-      Contra_bill_342: 2351937367328918446
-      Contra_bill_343: -2202185863117176366
-      Contra_bill_344: -1211249601452954161
-      Contra_bill_345: -2353588639144787183
-      Contra_bill_346: 5685697297292519667
-      Contra_bill_347: 3718690654913869241
-      Contra_bill_348: -4295981814809663054
-      Contra_bill_349: 6648797516418092710
       Contra_bill_35: -7423572326735129564
-      Contra_bill_350: -4908383040899691486
-      Contra_bill_351: -6973948286316363149
-      Contra_bill_352: -1987370033624947465
-      Contra_bill_353: 2398547939115544998
-      Contra_bill_354: -2802165640631192051
-      Contra_bill_355: -8159429079397682968
-      Contra_bill_356: -2639292366058756215
-      Contra_bill_357: 8835858116394700369
-      Contra_bill_358: -124116601864753899
-      Contra_bill_359: -1596884841971237544
       Contra_bill_36: 5066656130859859527
       Contra_bill_37: -8304230948238164864
       Contra_bill_38: -737142122675157122
