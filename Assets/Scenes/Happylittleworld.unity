@@ -340,19 +340,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8766159126276083697, guid: 507e7814fb9414647b4b89e15bf2ab28, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.83240813
       objectReference: {fileID: 0}
     - target: {fileID: 8766159126276083697, guid: 507e7814fb9414647b4b89e15bf2ab28, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 8766159126276083697, guid: 507e7814fb9414647b4b89e15bf2ab28, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 8766159126276083697, guid: 507e7814fb9414647b4b89e15bf2ab28, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: 0.55416316
       objectReference: {fileID: 0}
     - target: {fileID: 8766159126276083697, guid: 507e7814fb9414647b4b89e15bf2ab28, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -364,7 +364,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8766159126276083697, guid: 507e7814fb9414647b4b89e15bf2ab28, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: 67.306
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9134,11 +9134,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1496119928211280628, guid: 48ed9d1511d20ec4fbf359da6aeb2a24, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.48
+      value: -4.69
       objectReference: {fileID: 0}
     - target: {fileID: 1496119928211280628, guid: 48ed9d1511d20ec4fbf359da6aeb2a24, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.01
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 1496119928211280628, guid: 48ed9d1511d20ec4fbf359da6aeb2a24, type: 3}
       propertyPath: m_LocalPosition.z
@@ -9175,6 +9175,10 @@ PrefabInstance:
     - target: {fileID: 1797382049310542967, guid: 48ed9d1511d20ec4fbf359da6aeb2a24, type: 3}
       propertyPath: m_Name
       value: PlayerCharacter
+      objectReference: {fileID: 0}
+    - target: {fileID: 3406789007845643393, guid: 48ed9d1511d20ec4fbf359da6aeb2a24, type: 3}
+      propertyPath: timeBetweenSpawn
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
