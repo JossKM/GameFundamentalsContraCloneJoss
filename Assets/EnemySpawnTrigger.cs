@@ -17,7 +17,7 @@ public class EnemySpawnTrigger : MonoBehaviour
         if(collision.GetComponent<PlayerCharacterControls>() != null)
         {
             spawner.isSpawning = true;
-            Debug.Log("Player detected!");
+            Debug.Log(gameObject.name + "detected player!");
         }
     }
 
@@ -28,7 +28,7 @@ public class EnemySpawnTrigger : MonoBehaviour
         if (playerReference != null)
         {
             spawner.isSpawning = false;
-            Debug.Log("Player gone!");
+            Debug.Log(gameObject.name + "has lost player!");
         }
     }
 }
