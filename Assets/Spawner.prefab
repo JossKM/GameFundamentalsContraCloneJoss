@@ -47,3 +47,4 @@ MonoBehaviour:
   prefabToSpawn: {fileID: 8661066752760045526, guid: 507e7814fb9414647b4b89e15bf2ab28, type: 3}
   secondsPassed: 0
   spawnIntervalSeconds: 1
+  isSpawning: 1

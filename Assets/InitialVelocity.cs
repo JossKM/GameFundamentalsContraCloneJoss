@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class InitialVelocity : MonoBehaviour
 {
-    float speed = 20.0f;
+    public float speed = 20.0f;
 
     void Start()
     {
