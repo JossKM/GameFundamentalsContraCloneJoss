@@ -18,13 +18,8 @@ public class PlayerCharacterControls : MonoBehaviour
     void Update()
     {
         gun.isSpawning = attackAction.IsPressed();
-        
-        
         Vector2 moveAimValue = moveAimAction.ReadValue<Vector2>();
         gun.transform.right = moveAimValue;
-        
         Debug.DrawRay(gun.transform.position, moveAimValue * 2, Color.red); // draw the input vector
-
-       // gun.transform.right
     }
 }
