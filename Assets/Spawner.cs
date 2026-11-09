@@ -1,29 +1,25 @@
+//Responsible for spawning gameobjects, used in player gun, enemy gun, enemy spawner
 using UnityEngine;
-using UnityEngine.InputSystem;
 
-public class Spawner : MonoBehaviour
-{
-    public GameObject prefabToSpawn;
-    public float timeBetweenSpawn = 1.0f;
-    public float timeSinceLastSpawn = 0.0f;
-    
-    InputAction attackAction;
+public class Spawner : MonoBehaviour // Class declaration 
+{ //Class definition is the contents of these curly braces
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        attackAction = InputSystem.actions.FindAction("Attack");
-    }
+    //The variables that make up data members of the class Spawner
+    //Public data members can be accessed from other classes
+    public GameObject prefabToSpawn; // reference type
+    public float secondsPassed = 0.0f; // value type
+    public float spawnIntervalSeconds = 1.0f;
+    public bool isSpawning = true;
 
     // Update is called once per frame
     void Update()
     {
-        if(attackAction.IsPressed() && timeSinceLastSpawn > timeBetweenSpawn)
+        secondsPassed += Time.deltaTime;
+
+        if (secondsPassed > spawnIntervalSeconds && isSpawning)
         {
             Instantiate(prefabToSpawn, transform.position, transform.rotation);
-            timeSinceLastSpawn = 0;
+            secondsPassed = 0;
         }
-
-        timeSinceLastSpawn += Time.deltaTime;
     }
-}
+} // End of class definition of Spawner
